@@ -8,14 +8,14 @@ Meu portifólio de projetos de Data Science
 </p>
 
 # Thais Helena Palma
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub>*Data Scientist*
 
 Estou me aperfeiçoando para começar a atuar como cientista de dados, combino com habilidades analíticas, capacidade de trabalhar em equipe e atenção aos detalhes. Meu objetivo é ajudar empresas a resolver problemas, encontrar soluções para melhor performance e comunicar toda informação relevante extraída de dados analisados.
 
 Minha formação inclui Design Gráfico pela UNIP, e MBA em Gestão de Marketing pela UNISAL, trabalho na área há mais de 10 anos e acredito que toda essa experiência vai complementar nessa nova etapa da minha carreira. 
 
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+**Background in:** Python and Machine Learning
 
 **Links:**
 * [Blog](https://github.com/Tha-Helena)
