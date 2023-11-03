@@ -27,7 +27,8 @@ Minha formação inclui Design Gráfico pela UNIP, e MBA em Gestão de Marketing
 Veja os tutoriais publicados:
 
 * **Análise dos Dados do Airbnb - Buenos Aires:** https://tinyurl.com/3sndvmkp
-* **Panorama do COVID-19 no Brasil** https://tinyurl.com/yuzycjhh  
+* **Panorama do COVID-19 no Brasil:** https://tinyurl.com/yuzycjhh
+* **Detecção de Fraude em Cartões de Crédito:** https://tinyurl.com/4wxt73rx
 
 ---
 
